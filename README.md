@@ -55,7 +55,7 @@ Folow these steps to start the application:
 1. Clone the project repo:
 
   ```sh
-  git clone https://github.com/twyle/photo-sharing-app.git
+  git clone https://github.com/NYARANGA-ROB/photo-sharing-app.git
   ```
 
 2. Navigate to the project directory, then create the project secrets:
