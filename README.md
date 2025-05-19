@@ -107,4 +107,4 @@ The application is containerized and deployed to AWS EC2. It uses AWS Route53 to
 
 ## Author :black_nib:
 
-* **Lyle Okoth** <[twyle](https://github.com/twyle)>
+* **Robert Nyaranga** <[twyle](https://github.com/NYARANGA-ROB/photo-sharing-app)>
